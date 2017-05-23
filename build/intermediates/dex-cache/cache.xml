@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/926b4528f0ae680d5f4b32c2ffc3622a17cd735b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42d2482f6716589553bb4cf707f982fbc2326280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/edd225fb3ca4e02db841df3c62b7b741fc7f96df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd1a5e1de469bd631c844575cd591095fe25e4b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/81edc4cb4e6ba4bf6620df3805e7d26e2364cf4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e7f29389c58e3cfdaffa3af194147aa7ae72d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/ed7a73eeeb40817b831f790c7fdba9d5624ce05e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f9b1fa0c57a857c8d0a6dba918964541908d1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/684732bcd0b661b89644c1011dec23761631f3f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25f7d88020223db0c5a98497fcf61c6893cb3036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/gits/DatePicker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d7a51ab94b27add701de43851f4b468d7f2b681">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_06e7f57acae592de6a87b93f3051d53126d61462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/cf896949ef52f27ca7f2204c7bf11b0b3bdbae94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_168fa9bb3659d66928e86992405a89d454dc76f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/gits/DatePicker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_849785c4143cd361f7c1e2c667c21e110a7a9756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_89de18e4cd8afe327cf93e90c1ebcd9b54e3888f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/5a05ebfe046556deef6055cc425e465b454a1133/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25c57586bda6bec1d9536b09ac23d0cb2455c901/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_40ce68ebf3269da1558757de84c2427aa34af478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/f8b8d0c2992676594d06530046a2c6b0af75a466/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_938fe1958bd161970a49484ed55b7f2c20c61b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/f4bc69b64e7f14697287e9bb40cc6c0ad6d73d5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02032fea291451a6b7adc7f17671540106acf9d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/felhasznalo/.android/build-cache/9951c66f9d137d742c952a4c4df919db4fac00e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/felhasznalo/gits/DatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_887ddf49d0cb02e63d5accacad11b7636d852664/classes.dex" />
+    </item>
+
+</items>
